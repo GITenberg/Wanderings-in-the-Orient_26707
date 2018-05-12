@@ -1,0 +1,27 @@
+_repo: Wanderings-in-the-Orient_26707
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reese, A. M. (Albert Moore)
+    alias: Reese, Albert Moore
+    birthdate: 1872
+    gutenberg_agent_id: '25263'
+    url: http://www.gutenberg.org/2009/agents/25263
+description: ''
+gutenberg_issued: '2008-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26707'
+  lccn: '19015626'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'East Asia -- Description and travel'
+title: Wanderings in the Orient
+url: http://www.gutenberg.org/ebooks/26707
